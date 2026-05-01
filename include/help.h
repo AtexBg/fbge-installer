@@ -1,0 +1,1 @@
+void showHelpMenu(bool *hasHelpMenuBeenRead);
